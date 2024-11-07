@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: aa7a47f897348458b8fe4e26a3e70e9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9157329183894706770
+    second: gamejamSoldier_0
+  - first:
+      213: -9170763790863120450
+    second: gamejamSoldier_1
+  - first:
+      213: 1313896782488611174
+    second: gamejamSoldier_2
+  - first:
+      213: -5427102262724747186
+    second: gamejamSoldier_3
+  - first:
+      213: -7597590980523180690
+    second: gamejamSoldier_4
+  - first:
+      213: 2472272057196249288
+    second: gamejamSoldier_5
+  - first:
+      213: -7900719210344406335
+    second: gamejamSoldier_6
+  - first:
+      213: 8712626336103366052
+    second: gamejamSoldier_7
+  - first:
+      213: 8670632301949964656
+    second: gamejamSoldier_8
+  - first:
+      213: 1477059382441781826
+    second: gamejamSoldier_9
+  - first:
+      213: 6937802608029594241
+    second: gamejamSoldier_10
+  - first:
+      213: 5952197895759329931
+    second: gamejamSoldier_11
+  - first:
+      213: -3544562828953956574
+    second: gamejamSoldier_12
+  - first:
+      213: -1227930259658949172
+    second: gamejamSoldier_13
+  - first:
+      213: -8691975002775044753
+    second: gamejamSoldier_14
+  - first:
+      213: 528497425170671190
+    second: gamejamSoldier_15
+  - first:
+      213: -7452742884827632230
+    second: gamejamSoldier_16
+  - first:
+      213: -5723353695782479315
+    second: gamejamSoldier_17
+  - first:
+      213: -1429442698727219424
+    second: gamejamSoldier_18
+  - first:
+      213: -6728325485769686594
+    second: gamejamSoldier_19
+  - first:
+      213: 468745526195134508
+    second: gamejamSoldier_20
+  - first:
+      213: -2733353848392707437
+    second: gamejamSoldier_21
+  - first:
+      213: 2492103590903017845
+    second: gamejamSoldier_22
+  - first:
+      213: 70025429617529781
+    second: gamejamSoldier_23
+  - first:
+      213: -5982038800647747071
+    second: gamejamSoldier_24
+  - first:
+      213: 8462231389808161747
+    second: gamejamSoldier_25
+  - first:
+      213: -5487670086104566140
+    second: gamejamSoldier_26
+  - first:
+      213: -804586639349227151
+    second: gamejamSoldier_27
+  - first:
+      213: -792398734046402491
+    second: gamejamSoldier_28
+  - first:
+      213: 3906560659265157704
+    second: gamejamSoldier_29
+  - first:
+      213: 6714240063660576718
+    second: gamejamSoldier_30
+  - first:
+      213: -1020731305479763789
+    second: gamejamSoldier_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gamejamSoldier_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb639b857ec1642ac900460cd746a9ea
+      internalID: -9157329183894706770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamejamSoldier_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed7b4bf44bd84b0fa1761bf8900a5fa
+      internalID: -9170763790863120450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamejamSoldier_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610623ac055c4b1fbefd450d065e1f5
+      internalID: 1313896782488611174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamejamSoldier_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64fe7a5dc3be4b0c905a9ad9774188b
+      internalID: -5427102262724747186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamejamSoldier_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4ee08c75c584e41b5f53d5ee8b4082
+      internalID: -7597590980523180690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamejamSoldier_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c5f6f1ead504844b4b2cbc0de2b6fc
+      internalID: 2472272057196249288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamejamSoldier_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b8ecce2389945f19f2226a69ed7d01
+      internalID: -7900719210344406335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamejamSoldier_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb22d03e87144a03835b49173841daf
+      internalID: 8712626336103366052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
